@@ -1,2 +1,2 @@
 # wep-scraper
-The code uses the requests_html library for web scraping, extracts beer data like name, price, country, stock, and promo info from an e-commerce website.
+The code uses requests_html library to scrape dynamic data from an e-commerce website, extracting beer information such as name, price, availability, and promo status.
